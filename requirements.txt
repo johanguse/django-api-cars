@@ -1,0 +1,11 @@
+Django==4.2.*
+djangorestframework==3.14.*
+django-extensions==3.2.*
+dr-scaffold==2.1.*
+django-seed==0.3.*
+djoser==2.2.*
+python-decouple==3.8
+drf-yasg==1.21.*
+ipdb
+psycopg2-binary==2.9.*
+pytz
